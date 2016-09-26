@@ -1,0 +1,1 @@
+include ':app', ':mdzz', ':activitylifecycletest', ':receiver', ':intentactivity'
